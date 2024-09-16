@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <h1>Site Web</h1>
+        <h1>Redes Sociales:</h1>
 
         <div className='center'>
         <img src={ima1} alt="club bucarabike 1" />
